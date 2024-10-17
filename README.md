@@ -1,4 +1,3 @@
-“Those who do not understand true pain can never understand true peace.” - Nagato Uzumaki
 <!--
 **Duycan17/Duycan17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

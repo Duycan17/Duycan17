@@ -2,7 +2,6 @@
 
 I'm an IT student and a former intern at **mgm technology partners Vietnam**, where I gained valuable experience. I have a passion for working as a DevOps/Cloud engineer, and I'm always eager to expand my skills and knowledge in this field.
 
-
 ![Profile views](https://komarev.com/ghpvc/?username=Duycan17&color=blue)
 
 ### 🛠 Languages and Tools
@@ -25,5 +24,5 @@ I'm an IT student and a former intern at **mgm technology partners Vietnam**, wh
 </p>
 
 ### 📫 How to reach me
-- Email: [your-email@example.com](mailto:your-email@example.com)
+- LinkedIn: [Duy](https://www.linkedin.com/in/duycan17)
 

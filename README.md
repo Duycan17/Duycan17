@@ -24,5 +24,5 @@ I'm an IT student and a former intern at **mgm technology partners Vietnam**, wh
 </p>
 
 ### 📫 How to reach me
-- LinkedIn: [Duy](https://www.linkedin.com/in/duycan17)
+- LinkedIn: [Duy](https://www.linkedin.com/in/duycan)
 

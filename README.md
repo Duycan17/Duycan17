@@ -1,6 +1,6 @@
 ## Hi there! 👋 I'm Duy
 
-I'm an IT student and a former intern at **mgm technology partners Vietnam**, where I gained valuable experience. I have a passion for working as a DevOps/Cloud engineer, and I'm always eager to expand my skills and knowledge in this field.
+I'm an IT student and a former intern at **mgm technology partners Vietnam** (top 5 IT company in Viet Nam 🐧), where I gained valuable experience. I have a passion for working as a DevOps/Cloud engineer, and I'm always eager to expand my skills and knowledge in this field.
 
 ![Profile views](https://komarev.com/ghpvc/?username=Duycan17&color=blue)
 
